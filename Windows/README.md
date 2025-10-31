@@ -1,4 +1,4 @@
-# For Encryption:
+# For Encryption (Windows):
 python encryption_win.py "C:\Users\John\Documents" "C:\Users\John\Pictures" "C:\keys\secret.key"
 
 # To Restore:
